@@ -4,4 +4,8 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ClrCppLibrary1\ClrCppLibrary1.vcxproj" />
+  </ItemGroup>
+
 </Project>
