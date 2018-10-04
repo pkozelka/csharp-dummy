@@ -9,6 +9,7 @@ namespace ConsoleApp1
             Console.WriteLine("Main: Hello World!");
             LocalClass.SayHi();
             ClassLibrary1.RemoteClass.SaySomething();
+            Console.Write("Press ENTER...");
             Console.ReadLine();
         }
     }
